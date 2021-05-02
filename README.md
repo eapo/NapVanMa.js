@@ -8,7 +8,7 @@ NapVanMa.js
 [CodePen - NapVanMa.js](https://codepen.io/eaposztrof/full/RwKzOzO)
 ## Installation
 1. Create the `#NapVanMa` element inside the [HTML body tag](https://www.w3schools.com/tags/tag_body.asp) at the desired place (`<div id="NapVanMa"></div>`)
-2. Load the *NapVanMa.js* script after the before closing the [HTML body tag](https://www.w3schools.com/tags/tag_body.asp) (`<script src="./NapVanMa.js"></script></body>`)
+2. Load the [*NapVanMa.js*](https://raw.githubusercontent.com/eapo/NapVanMa.js/main/NapVanMa.js) script after the `#NapVanMa` and before closing the [HTML body tag](https://www.w3schools.com/tags/tag_body.asp) (`<script src="./NapVanMa.js"></script>`)
 ## Authors
 - created by: Nyers Csaba
 - optimized, upgraded with new features and data: eaposztrof
