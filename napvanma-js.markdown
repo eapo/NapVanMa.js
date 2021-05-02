@@ -7,7 +7,7 @@ NapVanMa.js
 ## Demo
 [CodePen - NapVanMa.js](https://codepen.io/eaposztrof/full/RwKzOzO)
 ## Installation
-1. Download the RAW [NapVanMa.js](https://gist.githubusercontent.com/eapo/06fa2192e307371dafa3b5727cc02df9/raw/4d2e680af74ed072bc23a4fba14f8899e6876292/NapVanMa.js) file
+1. Download the RAW [NapVanMa.js](https://gist.githubusercontent.com/eapo/06fa2192e307371dafa3b5727cc02df9/raw/fb77f35a2d851f5325b179a09d2c74d53a8efa59/NapVanMa.js) file
 2. add to your [HTML head Elements](https://www.w3schools.com/html/html_head.asp) (`<script src="./NapVanMa.js"></script>`)
 3. create the `#NapVanMa` element inside the [HTML body tag](https://www.w3schools.com/tags/tag_body.asp) (`<div id="NapVanMa"></div>`)
 ## Authors
